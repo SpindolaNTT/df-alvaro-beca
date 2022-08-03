@@ -11,7 +11,7 @@
 					"referenceName": "ls_keyvault_beca",
 					"type": "LinkedServiceReference"
 				},
-				"secretName": "storage-key"
+				"secretName": "storage-key-final"
 			}
 		}
 	},
