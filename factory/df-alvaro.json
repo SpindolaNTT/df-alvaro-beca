@@ -1,0 +1,9 @@
+{
+	"name": "df-alvaro",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fb389d31-ab7a-47b5-8a42-0e3a22c846c1",
+		"tenantId": "a49e2ad8-3b8d-40e8-8c45-1505c9a243d3"
+	}
+}
